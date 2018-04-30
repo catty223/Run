@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Run</string>
+    <string name="text">本软件是为那些想跑步，但不想放弃xp的童鞋而设计的。\n\n如果你有其他不正当想法，请不要使用本软件，否则一切后果由自己承担，与作者无关。\n\n使用方法: 勾选模板并重启手机</string>
+    <string name="pay">捐赠通道，宝刀屠龙，点击就送</string>
+    <string name="yunpan">更新网盘: https://pan.baidu.com/s/1yENMocHijwbhnrCj5afTIg\n网址长按可复制\n更不更新看我的是否有时间\n反馈QQ 2071769694</string>
+    <string name="icon">隐藏图标</string>
+    <string name="updatelog">点击查看更新日志</string>
+    <string name="updatelogcontent">1、修复上个版本需要配合禁用应用读取权限或隐藏xposed管理的bug\n2、精炼代码, 经过多次调试, 去除无用代码\n3、修复界面点击出现焦点获取异常的bug\n4、如果检测机制不做改动, 这一版可以兼容后续版本\n5、感谢各位的捐赠\n就说这么多吧, 该去找东西填肚子了\n完成时间2018年4月20日20:57:01</string>
+</resources>
